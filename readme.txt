@@ -1,8 +1,48 @@
-Thank you for using our template!
+THEME: Connect - Free Bootstrap Theme
+AUTHOR: uiCookies.com
+AUTHOR URI: https://uiCookies.com/
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+CREDITS:
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Bootstrap
+http://getbootstrap.com/
+
+jQuery
+http://jquery.com/
+
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
+
+HTML5Shiv
+https://github.com/aFarkas/html5shiv
+
+Google Fonts
+https://www.google.com/fonts/
+
+Icomoon
+https://icomoon.io/app/
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+Owl Carousel
+https://owlcarousel2.github.io/OwlCarousel2/
+
+FlexSlider
+http://flexslider.woothemes.com
+
+Demo Images
+https://unsplash.com
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
