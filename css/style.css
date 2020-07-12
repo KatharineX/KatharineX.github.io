@@ -339,7 +339,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-right-nav li a:hover {
   text-decoration: none !important;
-  color: #22eaaa;
+  color: #F5D8AC;
 }
 
 .probootstrap-burger-menu {
@@ -357,7 +357,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   width: 18px;
   height: 2px;
   color: #000000;
-  font: bold 14px/.4 Helvetica, arial;
+  font: bold 12px/.4 Helvetica, arial;
   text-transform: uppercase;
   text-indent: -55px;
   background: #000000;
