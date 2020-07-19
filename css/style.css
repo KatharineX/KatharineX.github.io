@@ -591,6 +591,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 .probootstrap-section-half .probootstrap-image, .probootstrap-section-half .probootstrap-text {
   height: 100vh;
   width: 50%;
+  position: relative !important;
+  z-index: 5000;
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
 }
