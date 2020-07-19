@@ -669,6 +669,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 .probootstrap-section-half.probootstrap-reverse .probootstrap-text {
   -webkit-box-ordinal-group: 2;
   -ms-flex-order: 1;
+  position: relative;
+  z-index: -1;
   order: 1;
 }
 
@@ -676,6 +678,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   .probootstrap-section-half.probootstrap-reverse .probootstrap-text {
     -webkit-box-ordinal-group: 3;
     -ms-flex-order: 2;
+    position: relative;
+    z-index: -1;
     order: 2;
   }
 }
