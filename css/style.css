@@ -576,6 +576,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  position: relative !important;
+  z-index: 5000;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -ms-flex-flow: row wrap;
