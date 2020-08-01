@@ -654,6 +654,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-section-half.probootstrap-reverse .probootstrap-image {
   -webkit-box-ordinal-group: 3;
+  position: relative;
   -ms-flex-order: 2;
   order: 2;
 }
@@ -661,6 +662,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 @media screen and (max-width: 768px) {
   .probootstrap-section-half.probootstrap-reverse .probootstrap-image {
     -webkit-box-ordinal-group: 2;
+    position: relative;
     -ms-flex-order: 1;
     order: 1;
   }
