@@ -1289,6 +1289,7 @@ ul
     body
 { font-size:14px;}
 }
+
 .clearfix:after {
    content: " "; /* Older browser do not support empty content */
    visibility: hidden;
