@@ -21,9 +21,10 @@
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
  }
 
-/* html
+html
 {
-} */
+	font-size:100%;
+}
 
 body
 {
@@ -33,25 +34,18 @@ body
 	font-size:18px;
 	font-weight:400;
 	line-height:1.4;
-  text-rendering:optimizeLegibility;
-  
-
-   /* background: #ffffff;
-  font-size: 16px;
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.8;
-  color: rgba(0, 0, 0, 0.5); */
+	text-rendering:optimizeLegibility;
 }
 
-.skill-set li a:hover
+.skill-set li:hover
 {
 	background:#3498db;
 }
 
-/* h1
+h1
 {
 	color:rgba(0,0,0,.75);
-} */
+}
 
 .wrapper
 {
@@ -62,7 +56,7 @@ body
 {
 	background-color:rgba(0,0,0,.025);
 	border-right:1px solid rgba(0,0,0,.05);
-	/* float:right; */
+	float:right;
 	height:100%;
 	margin-left:-1px;
 	min-width:256px;
@@ -73,7 +67,7 @@ body
 
 .right
 {
-	/* float:right; */
+	float:right;
 	height:100%;
 	position:relative;
 	width:66.66%;
@@ -170,11 +164,11 @@ ul
 	padding:0;
 }
 
-.skill-set li a
+.skill-set li
 {
 	background:rgba(0,0,0,.75);
 	border-radius:5px;
-  color:#FFF;
+	color:#FFF;
 	display:inline-block;
 	list-style:none;
 	margin:15px 15px 0 0;
@@ -204,7 +198,6 @@ ul
     body
 { font-size:14px;}
 }
-
 .clearfix:after {
    content: " "; /* Older browser do not support empty content */
    visibility: hidden;
@@ -212,7 +205,6 @@ ul
    height: 0;
    clear: both;
 }
-
 .handmade {
   text-align:right;
   margin-top:100px;
@@ -222,18 +214,21 @@ ul
   font-size: 1.25em;
   margin-left:5px;
 }
+/* end of corder.io */
 
-/* original bootstrap */
+/* original */
 html {
   overflow-x: hidden;
-  /* font-size: 1em; */
-  font-size:100%;
-
+  font-size: 1em;
 }
 
-/* body {
- 
-} */
+body {
+  background: #ffffff;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.8;
+  color: rgba(0, 0, 0, 0.5);
+}
 
 ::-moz-selection {
   background: #000000;
