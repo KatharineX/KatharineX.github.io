@@ -23,7 +23,6 @@
 
 /* html
 {
-	font-size:100%;
 } */
 
 body
@@ -213,6 +212,7 @@ ul
    height: 0;
    clear: both;
 }
+
 .handmade {
   text-align:right;
   margin-top:100px;
@@ -226,7 +226,9 @@ ul
 /* original bootstrap */
 html {
   overflow-x: hidden;
-  font-size: 1em;
+  /* font-size: 1em; */
+  font-size:100%;
+
 }
 
 /* body {
