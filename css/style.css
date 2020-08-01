@@ -645,6 +645,8 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-section-half:hover .probootstrap-text, .probootstrap-section-half:focus .probootstrap-text {
   width: 52%;
+  position: relative;
+
 }
 
 @media screen and (max-width: 768px) {
