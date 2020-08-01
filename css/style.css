@@ -34,7 +34,14 @@ body
 	font-size:18px;
 	font-weight:400;
 	line-height:1.4;
-	text-rendering:optimizeLegibility;
+  text-rendering:optimizeLegibility;
+  
+
+   /* background: #ffffff;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.8;
+  color: rgba(0, 0, 0, 0.5); */
 }
 
 .skill-set li:hover
@@ -42,10 +49,10 @@ body
 	background:#3498db;
 }
 
-h1
+/* h1
 {
 	color:rgba(0,0,0,.75);
-}
+} */
 
 .wrapper
 {
@@ -223,13 +230,9 @@ html {
   font-size: 1em;
 }
 
-body {
-  background: #ffffff;
-  font-size: 16px;
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.8;
-  color: rgba(0, 0, 0, 0.5);
-}
+/* body {
+ 
+} */
 
 ::-moz-selection {
   background: #000000;
