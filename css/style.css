@@ -1147,7 +1147,7 @@ h1
 {
 	background-color:rgba(0,0,0,.025);
 	border-right:1px solid rgba(0,0,0,.05);
-	float:right;
+	/* float:right; */
 	height:100%;
 	margin-left:-1px;
 	min-width:256px;
@@ -1158,7 +1158,7 @@ h1
 
 .right
 {
-	float:right;
+	/* float:right; */
 	height:100%;
 	position:relative;
 	width:66.66%;
