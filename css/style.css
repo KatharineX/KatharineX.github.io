@@ -628,6 +628,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 .probootstrap-section-half .probootstrap-text > .probootstrap-inner {
   -ms-flex-item-align: center;
   align-self: center;
+  position: relative;
   max-width: 500px;
   padding: 30px;
 }
