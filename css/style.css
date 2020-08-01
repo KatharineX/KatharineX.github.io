@@ -44,7 +44,7 @@ body
   color: rgba(0, 0, 0, 0.5); */
 }
 
-.skill-set li:hover
+.skill-set li a:hover
 {
 	background:#3498db;
 }
@@ -171,9 +171,8 @@ ul
 	padding:0;
 }
 
-.skill-set li
+.skill-set li a
 {
-  float:left;
 	background:rgba(0,0,0,.75);
 	border-radius:5px;
   color:#FFF;
