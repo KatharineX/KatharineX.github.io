@@ -81,11 +81,11 @@ p, ul, ol, figure {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #22eaaa;
+  color: #000000;
 }
 
 a:hover, a:focus {
-  color: #22eaaa;
+  color: #000000;
   text-decoration: underline;
 }
 
@@ -94,7 +94,7 @@ a.hover-reverse {
 }
 
 a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
-  color: #22eaaa;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -291,7 +291,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.active a {
-  color: #22eaaa;
+  color: #000000;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li {
@@ -713,7 +713,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .service .icon i {
-  color: #22eaaa;
+  color: #000000;
 }
 
 .probootstrap-animate {
@@ -773,7 +773,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #22eaaa;
+  border-color: #000000;
 }
 
 .probootstrap-form textarea.form-control {
@@ -1036,7 +1036,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-primary-color {
-  color: #22eaaa !important;
+  color: #000000 !important;
 }
 
 .probootstrap-secondary-color {
