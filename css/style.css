@@ -269,7 +269,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-main-nav li.probootstrap-cta a:hover {
   background: #ffffff;
-  color: #22eaaa;
+  color: #000000;
 }
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav li.probootstrap-cta {
@@ -283,7 +283,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-main-nav li.active a {
-  color: #22eaaa;
+  color: #000000;
 }
 
 .probootstrap-main-nav li.active a:hover {
@@ -1028,19 +1028,19 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-black-color {
-  color: #000000 !important;
+  color: #000000 ;
 }
 
 .probootstrap-white-color {
-  color: #ffffff !important;
+  color: #ffffff ;
 }
 
 .probootstrap-primary-color {
-  color: #000000 !important;
+  color: #000000 ;
 }
 
 .probootstrap-secondary-color {
-  color: #ddf0f3 !important;
+  color: #ddf0f3 ;
 }
 
 @media screen and (max-width: 768px) {

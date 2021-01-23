@@ -125,7 +125,7 @@ a {
 			float: left;
 			clear: both;
 			margin-top: 30px;
-			color: #222;
+			color: #000000;
 			.social-buttons {
 				padding: 0;
 				margin: 0 0 20px 0;
@@ -182,7 +182,7 @@ a {
 		a {
 			font-weight: 400;
 			padding: 10px 0;
-			color: rgba(0,0,0,.7);
+			color: #000000;
 			font-size: 16px;
 			text-decoration: none;
 			&:hover {
@@ -199,7 +199,7 @@ a {
 			.probootstrap-mobile-menu-active & {
 				border-bottom: none!important;
 				&:hover {
-					color: #222;	
+					color: #000000;	
 				}
 			}
 		}
@@ -254,7 +254,7 @@ a {
 	right: 0;
 	width: 100vw;
 	height: 100vh;
-	background: rgba(0,0,0,.7);
+	background: #000000;
 	opacity: 0;
 	visibility: hidden;
 	transition: .3s all ease-out;
@@ -931,7 +931,6 @@ a {
 			height: 50px;
 			display: table-cell;
 			vertical-align: middle;
-
 		}
 		&:hover, &:active, &:focus {
 			text-decoration: none;
